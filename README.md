@@ -1,4 +1,4 @@
-# arqcompEC2019
+# Arquiteturas e Organização de Computadores
 Repositório da disciplina de Arquitetura e Organização de Computadores da Unilago para Engenharia de Computação 2019
 
 # Links
