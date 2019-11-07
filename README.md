@@ -22,7 +22,7 @@ Repositório da disciplina de Arquitetura e Organização de Computadores da Uni
   - [Intel desenvolve chip de inteligência artificial com o Facebook ](https://computerworld.com.br/2019/01/09/intel-desenvolve-chip-de-inteligencia-artificial-com-o-facebook/)
 
 - *Paulo Vitor Bassan:*
-  - [Intel lança nova linha de processadores escaláveis com capacidade para 56 Cores (https://www.google.com/amp/s/canaltech.com.br/amp/hardware/intel-lanca-nova-linha-de-processadores-escalaveis-com-capacidade-para-56-cores-146157/)
+  - [Intel lança nova linha de processadores escaláveis com capacidade para 56 Cores](https://www.google.com/amp/s/canaltech.com.br/amp/hardware/intel-lanca-nova-linha-de-processadores-escalaveis-com-capacidade-para-56-cores-146157/)
 
   - [LG lança seu chip de IA para dispositivos de casa inteligente](https://www.mobiletime.com.br/noticias/20/05/2019/lg-lanca-seu-chip-de-ia-para-dispositivos-de-casa-inteligente/)
 
