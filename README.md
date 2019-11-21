@@ -37,13 +37,12 @@ Repositório da disciplina de Arquitetura e Organização de Computadores da Uni
   - [Intel's neuromorphic Loihi processor scales to 8M neuros 64 Cores](https://www.extremetech.com/computing/295043-intels-neuromorphic-loihi-processor-scales-to-8m-neurons-64-cores)
   - [Chip neuromórfico que se aproxima de cérebro humano é revelado pela Intel](https://www.tecmundo.com.br/ciencia/122467-chip-neuromorfico-aproxima-cerebro-humano-revelado-intel.htm)
   - [IBM apresenta processador neuromórfico que imita o cérebro humano](https://jornalggn.com.br/ciencia/ibm-apresenta-processador-neuromorfico-que-imita-o-cerebro/)
-
+- *Vitor Hugo Lima Marconi*
+  -[IBM obtém sucesso com chip de silício fotônico capaz de alcançar 100 Gb/s](https://m.tecmundo.com.br/ibm/79990-ibm-obtem-sucesso-chip-silicio-fotonico-capaz-alcancar-100-gb-s.htm?_gl=1*1sm7eir*_ga*UnZiSjlmLWliMDhCMUlvRDl0dURqN0xrdjY4SFFaYWVrZU9hSURmUmxtb1BBYXBZLXNpcjBhVVBYak5WLWlFZQ)
 - *Prof. Leonardo Alves de Paula e Silva:*
   - [Next Generation compute architectures enabling artificial intelligence](https://www.futuregrasp.com/next-generation-compute-architectures-enabling-artificial-intelligence-part-I-of-II)
   - [Engenharia neuromórfica](https://pt.wikipedia.org/wiki/Engenharia_neurom%C3%B3rfica)
   - [Pesquisa Google Processador Neuromórfico](https://www.google.com/search?q=processador+neurom%C3%B3rfico&oq=processador+neurom%C3%B3rfico)
-
-
 
 ### Big Data e Arquiteutura de computadores:
 
@@ -64,3 +63,7 @@ Repositório da disciplina de Arquitetura e Organização de Computadores da Uni
 - *Eduardo Mantovani*
   - [Big Data – arquitetura do ambiente](https://canaltech.com.br/big-data/Big-Data-arquitetura-do-ambiente/)
   - [Computador de alto desempenho para BIG DATA](https://www.clubedohardware.com.br/forums/topic/1233064-computador-de-alto-desempenho-para-big-data/)
+
+- *Vitor Hugo Lima Marconi*
+  -[The Machine: a nova arquitetura da HP que promete revolucionar o Big Data](https://www.tecmundo.com.br/hp/112271-the-machine-nova-arquitetura-hp-promete-revolucionar-big-data.htm)
+  -[HPE desenvolve computador voltado especificamente para o Big Data](https://canaltech.com.br/inovacao/hpe-desenvolve-computador-voltado-especificamente-para-o-big-data-93820/)
