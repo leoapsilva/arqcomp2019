@@ -42,3 +42,25 @@ Repositório da disciplina de Arquitetura e Organização de Computadores da Uni
   - [Next Generation compute architectures enabling artificial intelligence](https://www.futuregrasp.com/next-generation-compute-architectures-enabling-artificial-intelligence-part-I-of-II)
   - [Engenharia neuromórfica](https://pt.wikipedia.org/wiki/Engenharia_neurom%C3%B3rfica)
   - [Pesquisa Google Processador Neuromórfico](https://www.google.com/search?q=processador+neurom%C3%B3rfico&oq=processador+neurom%C3%B3rfico)
+
+
+
+### Big Data e Arquiteutura de computadores:
+
+**Para aplicações de Big Data, como uma arquitetura de computador que aumenta a performance?**
+**Existe alguma especificidade em Big Data que impulsione a criação de uma nova arquitetura de computador?**
+
+- *Guilherme Fernando de Oliveira Tropeia*
+  - [HPE desenvolve computador de alto desempenho para big data](https://tiinside.com.br/tiinside/16/05/2017/hpe-desenvolve-computador-de-alto-desempenho-para-big-data/)
+
+- *Wesley Scaldelai*
+  - [Estilo de arquitetura de Big Data](https://docs.microsoft.com/pt-br/azure/architecture/guide/architecture-styles/big-data)
+
+- *Paulo Vitor Bassan*
+  - [SERVIDORES HPE PROLIANT DL](https://www.hpe.com/br/pt/servers/proliant-dl-servers.html)
+  - [Massive Growth in Healthcare Big Data Analytics Market from 2019-2025 with Profiling Key Players IBM, Cognizant, Dell, GE Healthcare, McKesson, Optum, Philips](https://www.marketexpert24.com/2019/11/06/massive-growth-in-healthcare-big-data-analytics-market-from-2019-2025-with-profiling-key-players-ibm-cognizant-dell-ge-healthcare-mckesson-optum-philips/)
+  - [Tecnologias de Hardware e Software](https://medium.com/@joseantonio11/bigdata-27-tecnologias-de-hardware-e-software-daf655fb64a)
+
+- *Eduardo Mantovani*
+  - [Big Data – arquitetura do ambiente](https://canaltech.com.br/big-data/Big-Data-arquitetura-do-ambiente/)
+  - [Computador de alto desempenho para BIG DATA](https://www.clubedohardware.com.br/forums/topic/1233064-computador-de-alto-desempenho-para-big-data/)
